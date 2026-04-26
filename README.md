@@ -11,9 +11,9 @@ LibreWolf is not officially supported on older operating systems such as Windows
 
 # Compatibility
 
-| Version | Windows 8.1 | Windows 8 | Windows 7
-| ------------- | ------------- | ------------- | ------------- |
-| STD150.0-1 | ✅ | ⚠️* | ❌ |
+| Version | Windows 8.1 | Windows 8 | Windows 7 | Download [.7z] | Download [.zip] |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| STD150.0-1 | ✅ | ⚠️* | ❌ | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.zip)|
 
 <hr>
 
