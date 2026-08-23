@@ -11,15 +11,16 @@ LibreWolf is not officially supported on older operating systems such as Windows
 
 # Compatibility
 
-| Version | Windows 8.1 | Windows 8 | Windows 7 | Download [.7z] | Download [.zip] |
+| Version | Windows 8.1 | Windows 8 | Windows 7 (with VxKex) | Windows 7 | Installer [.exe] | Portable [.7z] | Portable [.zip] |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| STD150.0-1 | ✅ | ⚠️* | ❌ | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.zip)|
+| STD153.0.4-1 | ✅ | ⚠️* | ❓ | ❌ | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD153.0.4-1/librewolf_STD153.0.4-1_win8_installer-NFX.exe) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD153.0.4-1/librewolf_STD153.0.4-1_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD153.0.4-1/librewolf_STD153.0.4-1_win8_portable-NFX.zip) |
+| STD150.0-1 | ✅ | ⚠️* | ❓ | ❌ | N/A | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.zip)|
 
 <hr>
 
 > *Technically possible by adding "MOZ_DISABLE_CONTENT_SANDBOX=1", however, it requires additional "api-ms-win-shcore-scaling-l1-1-1.dll" ripped from W8.1 in order to run...
 
-> k64.dll wrapper used in 16.0a5 is created by [EAZY BLACK](https://git.chefkiss.dev/WinRevived/Wrappers/releases/tag/v1.0.0).
+> k64.dll wrapper used is created by [EAZY BLACK](https://git.chefkiss.dev/WinRevived/Wrappers/releases/tag/v1.0.0).
 
 # Not satisfied? Check out my other ports:
 - [Mullvad Browser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8) - Privacy-focused web browser developed to minimize fingerprinting.
