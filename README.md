@@ -11,7 +11,7 @@ LibreWolf is not officially supported on older operating systems such as Windows
 
 # Compatibility
 
-| Version | Windows 8.1 | Windows 8 | W7 (w/ VxKex-NEXT) | W7 (w/ VxKex) | W7 (w/ 2nd System) | Windows 7 | Installer [.exe] | Portable [.7z] | Portable [.zip] |
+| Version | Windows 8.1 | Windows 8 | W7 (w/ VxKex-NEXT) | W7 (w/ VxKex) | W7 (w/ Second System) | Windows 7 | Installer [.exe] | Portable [.7z] | Portable [.zip] |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | STD153.0.4-1 | ✅ | ⚠️* | ❓ | ❌ | ❌ | ❌ | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD153.0.4-1/librewolf_STD153.0.4-1_win8_installer-NFX.exe) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD153.0.4-1/librewolf_STD153.0.4-1_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD153.0.4-1/librewolf_STD153.0.4-1_win8_portable-NFX.zip) |
 | STD150.0-1 | ✅ | ⚠️* | ❓ | ❌ | ❌ | ❌ | N/A | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/LibreWolf-for-Windows-8/releases/download/STD150.0-1/librewolf_STD150.0-1_win8_portable-NFX.zip)|
